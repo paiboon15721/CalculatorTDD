@@ -81,5 +81,7 @@ class CalculatorTest extends PHPUnit_Framework_TestCase {
 		$result = $this->calc->mockObject($mock);
 		$this->assertEquals(5, $result);
 	}
+
+	test
 }
 ?>
