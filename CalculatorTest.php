@@ -2,6 +2,7 @@
 require 'vendor/autoload.php';
 
 
+test na kub
 class CalculatorTest extends PHPUnit_Framework_TestCase {
 
 	private $calc;
